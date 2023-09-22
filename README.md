@@ -1,6 +1,6 @@
 # LLM-ChatBot-for-MCQ-Creation
 
-This repository contains a chatbot developed by LLM for creating multiple-choice questions (MCQs). The chatbot is designed to assist users in generating MCQs based on their input.
+This repository contains a chatbot developed using ChatGpt LLM to create multiple-choice questions (MCQs). The chatbot is designed to assist users in generating MCQs based on their input.
 
 ## Steps
 
