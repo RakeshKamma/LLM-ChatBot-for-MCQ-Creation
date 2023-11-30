@@ -3,7 +3,7 @@
 This repository contains a chatbot developed using ChatGpt LLM to create multiple-choice questions (MCQs). The chatbot is designed to assist users in generating MCQs based on their input.
 
 ## Steps
-
+0. Setup your OpenAI api key before starting
 1. **Installation**: Clone the repository and navigate to the project directory.
    ```shell
    git clone https://github.com/your-username/LLM-ChatBot-for-MCQ-Creation.git
